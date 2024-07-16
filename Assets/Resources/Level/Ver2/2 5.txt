@@ -1,0 +1,127 @@
+{
+    "colNumber": 5,
+    "rowNumber": 4,
+    "blocks": [
+        {
+            "row": 1,
+            "col": 2,
+            "sprite": 3,
+            "canChange": true,
+            "listPosSquare": [
+                {
+                    "x": 1.0,
+                    "y": -1.0
+                },
+                {
+                    "x": 0.0,
+                    "y": -1.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0
+                }
+            ]
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "sprite": 4,
+            "canChange": false,
+            "listPosSquare": [
+                {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": -1.0
+                },
+                {
+                    "x": 0.0,
+                    "y": -2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": -3.0
+                }
+            ]
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "sprite": 5,
+            "canChange": false,
+            "listPosSquare": [
+                {
+                    "x": 0.0,
+                    "y": 1.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": -2.0
+                },
+                {
+                    "x": 0.0,
+                    "y": -1.0
+                }
+            ]
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "sprite": 1,
+            "canChange": false,
+            "listPosSquare": [
+                {
+                    "x": -1.0,
+                    "y": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": -1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": -1.0
+                }
+            ]
+        },
+        {
+            "row": 9,
+            "col": 3,
+            "sprite": 8,
+            "canChange": false,
+            "listPosSquare": [
+                {
+                    "x": -1.0,
+                    "y": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": -1.0
+                }
+            ]
+        }
+    ],
+    "listPigDone": []
+}

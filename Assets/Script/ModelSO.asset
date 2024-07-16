@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e920da55c1ad3d446bbbb5dc9fc388e6, type: 3}
+  m_Name: ModelSO
+  m_EditorClassIdentifier: 
+  listModel:
+  - name: House
+    modelPrefab: {fileID: 3058218327254085977, guid: 2fd0542fe2d8beb48a7f68a05885c63b, type: 3}
+  - name: Kitchen
+    modelPrefab: {fileID: 1226707712159716290, guid: 1490c85029d8c4e4ea1cac8e6555596b, type: 3}
+  - name: 2
+    modelPrefab: {fileID: 3058218327254085977, guid: 76a89bc4fbe4c7440824e6000b1788c8, type: 3}
+  - name: 3
+    modelPrefab: {fileID: 3058218327254085977, guid: 0e1bc9f822d76c94a82172f57bffd99a, type: 3}
+  - name: 4
+    modelPrefab: {fileID: 3058218327254085977, guid: a96419c6b1262794e9deb21dd61088b1, type: 3}
+  - name: 5
+    modelPrefab: {fileID: 3058218327254085977, guid: fb11f24075f57014c8e8759af7ca65ac, type: 3}

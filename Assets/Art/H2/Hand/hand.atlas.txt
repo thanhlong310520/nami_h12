@@ -1,0 +1,6 @@
+hand.png
+size:492,418
+filter:Linear,Linear
+pma:true
+wrist
+bounds:2,2,488,414

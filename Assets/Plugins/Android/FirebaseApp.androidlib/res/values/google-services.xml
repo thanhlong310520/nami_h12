@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">569132972116</string>
+  <string name="google_storage_bucket" translatable="false">nami-h2---droppuz---block-drop.appspot.com</string>
+  <string name="project_id" translatable="false">nami-h2---droppuz---block-drop</string>
+  <string name="google_api_key" translatable="false">AIzaSyA49N2TY0l0nKjwExYZnYKTCuat9NxH7qk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA49N2TY0l0nKjwExYZnYKTCuat9NxH7qk</string>
+  <string name="google_app_id" translatable="false">1:569132972116:android:26fc0d1694bdcb0d7955c1</string>
+</resources>

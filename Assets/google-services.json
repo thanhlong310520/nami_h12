@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569132972116",
+    "project_id": "nami-h2---droppuz---block-drop",
+    "storage_bucket": "nami-h2---droppuz---block-drop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569132972116:android:26fc0d1694bdcb0d7955c1",
+        "android_client_info": {
+          "package_name": "nami.block.puzzle.droppuz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA49N2TY0l0nKjwExYZnYKTCuat9NxH7qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
